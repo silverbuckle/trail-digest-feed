@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>トレイルランニング・ダイジェスト</title>
+    <description>トレイルランニング・ダイジェストは、AIが自律的に海外のトレイルランニング情報を収集し、紹介するPodcastです。海外の大きなトレンドを掴むことを目的に構築しました。AIによるファクトチェックを二重で行っていますが、不正確な場合があります。気になる情報は、リンク先の情報ソースをご参照ください。</description>
+    <link>https://silverbuckle.github.io/trail-digest-feed</link>
+    <language>ja</language>
+    <itunes:author>Trail Podcast</itunes:author>
+    <itunes:owner>
+      <itunes:name>Trail Podcast</itunes:name>
+      <itunes:email>matsuda0415@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Sports"/>
+    <itunes:image href="https://silverbuckle.github.io/trail-digest-feed/cover_new.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>3/16 アルボン夫妻同時優勝＆キリアン2026年計画</title>
+      <description><![CDATA[記念すべき第一回放送。カナリア諸島のTransgrancanariaでアルボン夫妻が男女同時優勝を達成。キリアン・ジョルネが2026年のレース計画を発表し、UTMB史上最多5勝目を狙う。Western StatesとHardrockの史上最強エントリーリスト、2026年シューズトレンド、日本初のUTMBワールドシリーズ「加賀温泉100」の話題もお届けします。
+
+【目次】
+・オープニング：番組紹介
+・メインニュース：アルボン夫妻Transgrancanaria同時優勝
+・メインニュース：キリアン・ジョルネ2026年シーズン計画
+・ディープダイブ：Western States & Hardrock 2026エントリー
+・ギア＆Tips：2026年シューズトレンド
+・加賀温泉エンデュランス100 by UTMB
+・エンディング
+
+【参照元】
+・2026 Transgrancanaria Classic 126k Results - iRunFar: https://www.irunfar.com/2026-transgrancanaria-classic-126k-results
+・Kilian Jornet announces 2026 race schedule - RUN247: https://run247.com/running-news/trail/kilian-jornet-announces-2026-race-schedule
+・Kilian Jornet to return to UTMB - Canadian Running: https://runningmagazine.ca/trail-running/kilian-jornet-to-return-to-utmb-in-search-of-a-record-fifth-title/
+・2026 Western States 100 Top Entrants - iRunFar: https://www.irunfar.com/2026-western-states-100-top-entrants
+・2026 Trail Running Shoe Previews - Road Trail Run: https://www.roadtrailrun.com/2025/12/2026-trail-running-shoe-previews-23.html
+・Kaga Spa Endurance 100 by UTMB: https://kagaspa.utmb.world/
+
+#トレイルランニング #ウルトラマラソン #UTMB #WesternStates #Hardrock #キリアンジョルネ #トレイルランニングダイジェスト]]></description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://silverbuckle.github.io/trail-digest-feed/episodes/2026-03-16.mp3</guid>
+      <enclosure url="https://silverbuckle.github.io/trail-digest-feed/episodes/2026-03-16.mp3" length="21833516" type="audio/mpeg"/>
+      <itunes:title>3/16 アルボン夫妻同時優勝＆キリアン2026年計画</itunes:title>
+      <itunes:summary><![CDATA[記念すべき第一回放送。カナリア諸島のTransgrancanariaでアルボン夫妻が男女同時優勝を達成。キリアン・ジョルネが2026年のレース計画を発表し、UTMB史上最多5勝目を狙う。Western StatesとHardrockの史上最強エントリーリスト、2026年シューズトレンド、日本初のUTMBワールドシリーズ「加賀温泉100」の話題もお届けします。
+
+【目次】
+・オープニング：番組紹介
+・メインニュース：アルボン夫妻Transgrancanaria同時優勝
+・メインニュース：キリアン・ジョルネ2026年シーズン計画
+・ディープダイブ：Western States & Hardrock 2026エントリー
+・ギア＆Tips：2026年シューズトレンド
+・加賀温泉エンデュランス100 by UTMB
+・エンディング
+
+【参照元】
+・2026 Transgrancanaria Classic 126k Results - iRunFar: https://www.irunfar.com/2026-transgrancanaria-classic-126k-results
+・Kilian Jornet announces 2026 race schedule - RUN247: https://run247.com/running-news/trail/kilian-jornet-announces-2026-race-schedule
+・Kilian Jornet to return to UTMB - Canadian Running: https://runningmagazine.ca/trail-running/kilian-jornet-to-return-to-utmb-in-search-of-a-record-fifth-title/
+・2026 Western States 100 Top Entrants - iRunFar: https://www.irunfar.com/2026-western-states-100-top-entrants
+・2026 Trail Running Shoe Previews - Road Trail Run: https://www.roadtrailrun.com/2025/12/2026-trail-running-shoe-previews-23.html
+・Kaga Spa Endurance 100 by UTMB: https://kagaspa.utmb.world/
+
+#トレイルランニング #ウルトラマラソン #UTMB #WesternStates #Hardrock #キリアンジョルネ #トレイルランニングダイジェスト]]></itunes:summary>
+      <itunes:duration>00:22:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
